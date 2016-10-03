@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saurabh Mhatre",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.4.7",
+    "async": "^2.0.1",
+    "body-parser": "^1.15.2",
+    "content-disposition": "^0.5.1",
+    "express": "^4.14.0",
+    "file-encryptor": "^0.1.1",
+    "moment": "^2.15.1",
+    "mongodb": "^2.2.10",
+    "mongoose": "^4.6.1",
+    "multer": "^1.2.0",
+    "node-native-zip": "^1.1.0",
+    "rmfr": "^1.0.1",
+    "serve-static": "^1.11.1"
+  }
+}
